@@ -1,0 +1,34 @@
+Business Development and Analytics Project Management
+This project consists of a chatbot and an appGUI designed for Business Development and Analytics project management.
+
+Chatbot (chatbot.py)
+The chatbot utilizes training data to handle role requests and provide courses with information to the user. It also creates a calendar that fits the selected course.
+
+Features
+Handles role requests and provides relevant course information
+Generates a customized training plan based on user input
+Creates a calendar for the selected course
+AppGUI (appGUI.py)
+The GUI displays a general user interface that allows the user to interact with the following features:
+
+Open Graphs: Allows the user to open and display graphs from an employee CSV file
+Technologies Used
+Python
+Libraries: ics, datetime, tkinter
+Installation and Setup
+Clone the repository
+Install the required dependencies using pip install -r requirements.txt
+Run the chatbot using python chatbot.py
+Run the appGUI using python appGUI.py
+Usage
+Use the chatbot to inquire about roles and courses
+Interact with the appGUI to open and display graphs from an employee CSV file
+
+Author:
+
+DEMN
+
+License
+This project is licensed under the [OpenEducaiton] License 
+
+Feel free to customize this template based on your specific project details and requirements.
